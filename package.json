@@ -1,6 +1,6 @@
 {
-  "name": "@babel/plugin-console-killer",
-  "version": "1.0.1",
+  "name": "@tp953704/babel-plugin-console-killer",
+  "version": "1.0.0",
   "description": "find and delete all of the 'console' or commentblock in the repository",
   "main": "dist/index.umd.js",
   "module": "dist/index-cjs.js",
