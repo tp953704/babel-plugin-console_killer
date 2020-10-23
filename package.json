@@ -1,0 +1,30 @@
+{
+  "name": "@babel/plugin-console-killer",
+  "version": "1.0.1",
+  "description": "find and delete all of the 'console' or commentblock in the repository",
+  "main": "dist/index.umd.js",
+  "module": "dist/index-cjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tp953704/babel-plugin-console_killer.git"
+  },
+  "keywords": [
+    "babel",
+    "console",
+    "babel-plugin",
+    "clean"
+  ],
+  "author": "Evan Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tp953704/babel-plugin-console_killer/issues"
+  },
+  "homepage": "https://github.com/tp953704/babel-plugin-console_killer#readme",
+  "devDependencies": {
+    "rollup": "^2.32.1"
+  }
+}
