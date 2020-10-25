@@ -1,8 +1,8 @@
 {
   "name": "@tp953704/babel-plugin-console-killer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "find and delete all of the 'console' or commentblock in the repository",
-  "main": "dist/index.umd.js",
+  "main": "dist/index.cjs.js",
   "module": "dist/index-es.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
